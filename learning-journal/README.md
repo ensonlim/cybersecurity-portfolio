@@ -1,4 +1,4 @@
-# learning Journal
+# Learning Journal
 My CyberSecurity learning journey starts here
 # Cisco Introduction to Cybersecurity 
 ## Why I started
