@@ -14,4 +14,4 @@ cybersecurity on social media and talking about how cybersecurity was protecting
 - Organisations need cybersecurity in order to protect confidential data
 
 ### Key things i learnt in this module 
-One thing i learned in this introduction to cybersecurity course is 
+One thing i learned in this module : introduction to cybersecurity course is that even when someone claims they do not use social media therefore they have no digital identity, as long as they have used the web before, they have an online identity.
