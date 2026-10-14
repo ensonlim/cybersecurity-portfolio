@@ -24,3 +24,8 @@ One thing i learned in this module : introduction to cybersecurity course is tha
 
 ### Key things I learnt in this module
 One thing i learnt in this module : Attacks, Concept and Techniques is that there are multiple ways that someone can use to get confidential information like social engineering, Denial-of-Service (DoS) and Distributed DoS (DDoS) and these methods are usually used with malicious intent.
+
+### Module : 3 Protecting your Data and Privacy
+- You can do multiple steps to protecting your computing devices by turning the firewall on, installing antivirus and antispyware, managing your operating system and browser and setting up password protection.
+- To erase data so that it is no longer recoverable, it must be overwritten with ones and zeroes multiple times, using tools specifically designed to do just that.
+- 
