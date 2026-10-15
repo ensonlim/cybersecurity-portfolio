@@ -28,4 +28,7 @@ One thing i learnt in this module : Attacks, Concept and Techniques is that ther
 ### Module : 3 Protecting your Data and Privacy
 - You can do multiple steps to protecting your computing devices by turning the firewall on, installing antivirus and antispyware, managing your operating system and browser and setting up password protection.
 - To erase data so that it is no longer recoverable, it must be overwritten with ones and zeroes multiple times, using tools specifically designed to do just that.
+- A Terms of Service agreement is legally binding and governs the rules between you, the service provider and others who use the service. The Terms of the agreement may include how they collect, use and share the data you share with them; what they are doing to secure the data you share with them and who can access your profile or account data
+- There are multiple ways to verify your identity online such as, physical objects like credit card, fob or mobile phone, biometric scan like fingerprints or facial and voice recognition and verification code sent via SMS or email
+- You should always limit the amount of data you share online as they might reveal more personal information than intended. For each new account you create you should use a unique password.
 - 
