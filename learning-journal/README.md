@@ -31,4 +31,5 @@ One thing i learnt in this module : Attacks, Concept and Techniques is that ther
 - A Terms of Service agreement is legally binding and governs the rules between you, the service provider and others who use the service. The Terms of the agreement may include how they collect, use and share the data you share with them; what they are doing to secure the data you share with them and who can access your profile or account data
 - There are multiple ways to verify your identity online such as, physical objects like credit card, fob or mobile phone, biometric scan like fingerprints or facial and voice recognition and verification code sent via SMS or email
 - You should always limit the amount of data you share online as they might reveal more personal information than intended. For each new account you create you should use a unique password.
-- 
+### Key things i learnt in this module
+I learnt that there are multiple steps and ways that i can ensure that my personal data and information can be private such as limiting the amount of data i share on social media, using a VPN service when connecting to a public Wi-Fi and using 2 Factor Authentication.
