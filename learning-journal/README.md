@@ -2,9 +2,7 @@
 My CyberSecurity learning journey starts here
 # Cisco Introduction to Cybersecurity 
 ## Why I started
-A reason i want to study cybersecurity is because when i was young i had already been in contact with all sorts of technology eg. Phones and Laptops
-However i started getting more and more interested on my devices and how they protected my data and how they worked together to do so. I first learnt about the term 
-cybersecurity on social media and talking about how cybersecurity was protecting our data and keeping the internet working and protected.
+A reason i want to study cybersecurity is because when i was young i had already been in contact with all sorts of technology eg. Phones and Laptops. However i started getting more and more interested on my devices and how they protected my data and how they worked together to do so. I first learnt about the term cybersecurity on social media and talking about how cybersecurity was protecting our data and keeping the internet working and protected. One major cybersecurity incident that caught my eye was the Canvas LMS cybersecurity incident that happened in April of 2026. It was labelled as the top 10 cybersecurity incident of all time in UpGuard and i recall seeing alot of people posting about the incident on social media and decided to search about what happened. Thats when i learnt that the attackers used RansomWare inorder to ask for a 10 Million dollar ransom to restore operation to the application to the owner.
 
 ## What i am learning 
 ### Module 1 : Introduction to Cybersecurity
