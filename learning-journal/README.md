@@ -43,4 +43,7 @@ I learnt that there are multiple steps and ways that i can ensure that my person
 - There are multiple steps a organisation can take to prevent cyber attack. For instance, doing a background check on employees before hiring them.
 - A Honeypor is a behaviour-based detection tool that lures attackers by appealing to their predicted pattern of malicious behaviour. Once a attacker is inside a honeypot, the network administrator can capture, log and analyse their behaviour so that they can build a better defense.
 - NetFlow is used to gather information about data flowing through the network, this includes who and what devices are in the network, and when and how users and devices access the network.
-- 
+- Penetration testing is the act of assessing a computer system, network or organization for security vulnerabilities. The information can be used to improve the system's defenses to ensure that it is better able to withstand future cyber attacks.
+- There is 5 steps for pen testing, Planning, Scanning, gaining access, maintaining access and analysis and reporting.
+- Risk assessment is the formal process of continuously identifying and assessing risk in an effort to reduce the impact of the threats and vulnerabilities. The cost of a control should never be more than the value of the asset you are protecting.
+- There are 3 different states of data: data in use ( data being accessed by a user ), data in motion ( data travelling through the network ) and data at rest ( data stored in a computer network or device ).
