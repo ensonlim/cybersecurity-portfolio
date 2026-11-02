@@ -48,3 +48,11 @@ I learnt that there are multiple steps and ways that i can ensure that my person
 - Risk assessment is the formal process of continuously identifying and assessing risk in an effort to reduce the impact of the threats and vulnerabilities. The cost of a control should never be more than the value of the asset you are protecting.
 - There are 3 different states of data: data in use ( data being accessed by a user ), data in motion ( data travelling through the network ) and data at rest ( data stored in a computer network or device ).
 - IPS blocks or denies traffic based on a positive or signature match. IDS scans data against a database of rules or sttack aignature, logs any detection and creates an alert for the network administrator. SIEM is a system that collects and analyzes security alerts, logs and other real time and historical data from security devices on the network. DLP is a system designed to stop sensitive data from being stolen from or escaping a network.
+
+### Key things i learnt in this module 4 : Protecting the Organisation
+I learnt that there are many different types of tools that can be used for different type of attacks such as a IDS to check data against a set of rules or attack signatures and things like nmap that maps out port opening.
+
+Module 5 : Will Your Future Be in Cybersecurity?
+- Cybersecurity professionals develop many skills, which can be used positively or illegally and there is always a huge demand for those who choose to put their cyber skills to good use within legal bounds.
+- If you are unsure whether an action or behaviour might be legal, assume that it is illegal and do not do it, always check with the legal or HR department in the organization.
+- 
